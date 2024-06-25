@@ -4,6 +4,6 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DTSTART:20240625T133000Z
 SUMMARY:Chicago Fed Nat Activity Index
-UID:359de8f4-cfd0-4fcf-b925-f85e7c02fa32@359d.org
+UID:d1fb7469-b07d-45d1-8f35-f8bcdb3d96b5@d1fb.org
 END:VEVENT
 END:VCALENDAR
