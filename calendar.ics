@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DTSTART:20240625T133000Z
-SUMMARY:Outer space
-UID:637905ce-52d0-4314-9570-fce5e08d3ce8@6379.org
+SUMMARY:Chicago Fed Nat Activity Index
+UID:67f0edb7-e69b-4a11-bcf0-4ed1936922f1@67f0.org
 END:VEVENT
 END:VCALENDAR
