@@ -2,8 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+LOCATION:Mars
 DTSTART:20240625T133000Z
 SUMMARY:Chicago Fed Nat Activity Index
-UID:d1fb7469-b07d-45d1-8f35-f8bcdb3d96b5@d1fb.org
+UID:85beeb49-98af-407b-bf5f-af95cb6c8e7a@85be.org
 END:VEVENT
 END:VCALENDAR
